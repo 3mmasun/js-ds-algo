@@ -14,7 +14,7 @@ Data structure
 Algorithms
 - binary search
 - bubble sort
-- heap sort
+- heap sort (removed)
 - insertion sort
 - merge sort
 - quick sort
